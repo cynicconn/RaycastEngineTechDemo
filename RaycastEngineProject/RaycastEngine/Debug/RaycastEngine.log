@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\raycastengineproject\raycastengine\main.c(382): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RaycastEngine.vcxproj -> C:\RaycastEngineProject\Debug\RaycastEngine.exe
+  RaycastEngine.vcxproj -> C:\RaycastEngineProject\Debug\RaycastEngine.pdb (Partial PDB)
